@@ -1,0 +1,20 @@
+[
+  {
+    "crop": "Tomato",
+    "farmer_price": "\u20b93",
+    "market_price": "\u20b910",
+    "middlemen_profit": "\u20b97"
+  },
+  {
+    "crop": "Onion",
+    "farmer_price": "\u20b94",
+    "market_price": "\u20b912",
+    "middlemen_profit": "\u20b98"
+  },
+  {
+    "crop": "Wheat",
+    "farmer_price": "\u20b914",
+    "market_price": "\u20b922",
+    "middlemen_profit": "\u20b98"
+  }
+]
